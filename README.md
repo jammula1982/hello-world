@@ -7,5 +7,4 @@ This is my first edit.
 
 14th Oct Modified
 
-15- oct: This is updated in slave branch.
-New code updated further
+15th Oct: New Changes
